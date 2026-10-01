@@ -3,8 +3,7 @@
 ![CI-CD](https://github.com/bsnt90210/ics499-cicd-demo/actions/workflows/ci-cd.yml/badge.svg)
 
 **Live site (GitHub Pages):** https://bsnt90210.github.io/ics499-cicd-demo/  
-**Live site (Render):** https://YOUR-RENDER-SITE.onrender.com
-
+**Live site (Render):** https://ics499-cicd-suraz.onrender.com
 A tiny project used in ICS 499 (Week 6) to show Git, GitHub, CI, and CD working together.
 
 ## What happens when code changes
