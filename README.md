@@ -1,8 +1,8 @@
 # ICS 499 CI/CD Demo: Grade Calculator
 
-![CI-CD](https://github.com/YOUR-GITHUB-USERNAME/ics499-cicd-demo/actions/workflows/ci-cd.yml/badge.svg)
+![CI-CD](https://github.com/bsnt90210/ics499-cicd-demo/actions/workflows/ci-cd.yml/badge.svg)
 
-**Live site (GitHub Pages):** https://YOUR-GITHUB-USERNAME.github.io/ics499-cicd-demo/  
+**Live site (GitHub Pages):** https://bsnt90210.github.io/ics499-cicd-demo/  
 **Live site (Render):** https://YOUR-RENDER-SITE.onrender.com
 
 A tiny project used in ICS 499 (Week 6) to show Git, GitHub, CI, and CD working together.
